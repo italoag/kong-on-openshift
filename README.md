@@ -1,4 +1,4 @@
-# How to deploy Kong with Openshift
+# How to deploy Kong into Openshift
 
 **Setup the project**
 
